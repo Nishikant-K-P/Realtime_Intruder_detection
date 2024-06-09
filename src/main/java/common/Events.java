@@ -1,0 +1,17 @@
+package common;
+
+public enum Events {
+    CONNECT,
+    ONLINE,
+    LOCK,
+    UNLOCK,
+    MOTION,
+    ALARM_TRIGGERED,
+    TAMPERING,
+    RESERVATION_CHECK_IN,
+    TAMPERING_ALERT,
+    PHYSICAL_UNLOCK,
+    ESCUTCHEON,
+    COOLING_SETPOINT,
+    HEATING_SETPOINT
+}
